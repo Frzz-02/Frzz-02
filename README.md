@@ -1,6 +1,6 @@
 <div align="center">
   <img 
-  height="300" 
+  height="180" 
   src="assets/banner2.png"  />
 </div>
 
@@ -41,7 +41,7 @@
 
 ###
 
-<h3 align="left" style="margin-top: 100px;">🛠 Language and tools</h3>
+<h3 align="left" style="margin-top: 40px;">🛠 Language and tools</h3>
 
 ###
 
