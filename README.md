@@ -1,7 +1,7 @@
 <div align="center">
   <img 
-  height="150" 
-  src="assets/banner.png"  />
+  height="180" 
+  src="assets/banner2.png"  />
 </div>
 
 ###
