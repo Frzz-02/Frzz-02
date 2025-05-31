@@ -1,6 +1,6 @@
 <div align="center">
   <img 
-  height="180" 
+  height="170" 
   src="assets/banner2.png"  />
 </div>
 
@@ -101,10 +101,8 @@
 
 ###
 
-<div align="left" style="margin-top: -10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Frzz-02&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
+| <img src="https://github-readme-stats.vercel.app/api?username=Frzz-02&show_icons=true&theme=algolia" height="150"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Frzz-02&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150"/> |
+|--------------|---------------|
 ###
 
 <h3 align="left" style="margin-top: 40px;">🎮 Play games with me</h3>
