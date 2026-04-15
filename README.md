@@ -108,7 +108,7 @@
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Frzz-02&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150">
+      <img src="https://streak-stats.demolab.com/?user=Frzz-02&theme=dark&hide_border=false" height="150">
     </td>
   </tr>
 </table>
