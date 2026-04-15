@@ -101,8 +101,18 @@
 
 ###
 
-| <img src="https://github-readme-stats.vercel.app/api?username=Frzz-02&show_icons=true&theme=algolia" height="150"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Frzz-02&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150"/> |
-|--------------|---------------|
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Frzz-02&show_icons=true&theme=algolia" height="150"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Frzz-02&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150"/></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Frzz-02&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150">
+    </td>
+  </tr>
+</table>
+
 ###
 
 <h3 align="left" style="margin-top: 40px;">🎮 Play games with me</h3>
@@ -114,5 +124,10 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Frzz-02/Frzz-02/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Frzz-02/Frzz-02/output/pacman-contribution-graph.svg">
 </picture>
+
+###
+
+  ## ðŸ’° You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/feriirawan0211) 
 
 ###
