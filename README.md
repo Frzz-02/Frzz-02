@@ -1,8 +1,8 @@
-<div align="center">
+<!-- <div align="center">
   <img 
   height="170" 
   src="assets/banner2.png"  />
-</div>
+</div> -->
 
 ###
 
